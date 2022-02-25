@@ -16,5 +16,11 @@
       "plains": "2022-02-24 08:58:56 -0500"
     },
     "done": false
+  },
+  "gregtech:low_voltage/30_good_electronic_circuit": {
+    "criteria": {
+      "location": "2022-02-25 09:00:53 -0500"
+    },
+    "done": true
   }
 }
