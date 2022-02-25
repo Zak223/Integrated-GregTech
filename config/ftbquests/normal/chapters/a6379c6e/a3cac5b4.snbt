@@ -1,0 +1,19 @@
+{
+	title: "Digital Storage Made Easy!",
+	x: 0.0d,
+	y: 4.0d,
+	text: [
+		"Well easier then some..."
+	],
+	dependencies: [
+		"0740b9d5",
+		"ee802067"
+	],
+	tasks: [{
+		uid: "5df5fb83",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}]
+}
